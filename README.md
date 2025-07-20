@@ -36,6 +36,7 @@ cd tictactoe
 
 npm install
 npm run dev
+```
 
 
 ##💡 How It Works
