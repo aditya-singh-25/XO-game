@@ -46,4 +46,4 @@ npm run dev
 ## 👨‍💻 Created By
 - Aditya Singh
 - 📧 aditya2502singh@gmail.com
-- 🔗 LinkedIn
+- 🔗[ LinkedIn](https://www.linkedin.com/in/aditya-singh25/)
