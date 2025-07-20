@@ -16,7 +16,7 @@ A modern and interactive Tic Tac Toe (X/O) game built using **React.js**. Challe
 
 ## 🚀 Live Demo
 
-🔗 [Play Now on Vercel]https://xo-game-peach.vercel.app/
+🔗 https://xo-game-peach.vercel.app/
 
 
 ## 🧰 Tech Stack
