@@ -27,11 +27,12 @@ A modern and interactive Tic Tac Toe (X/O) game built using **React.js**. Challe
 ## 🛠️ How to Run the App Locally
 
 1. **Clone the repository**
-
-- git clone  https://github.com/aditya-singh-25/XO-game
-- cd tictactoe
-- npm install
-- npm run dev
+```bash
+git clone  https://github.com/aditya-singh-25/XO-game
+cd tictactoe
+npm install
+npm run dev
+```
 
 ## 💡 How It Works
 The game board is a 3x3 grid.
