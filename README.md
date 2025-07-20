@@ -25,5 +25,27 @@ A modern and interactive Tic Tac Toe (X/O) game built using **React.js**. Challe
 - CSS
 - Vercel (for deployment)
 
-## 📂 Folder Structure
 
+## 🛠️ How to Run the App Locally
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/tictactoe.git
+cd tictactoe
+
+npm install
+npm run dev
+
+
+##💡 How It Works
+-The game board is a 3x3 grid.
+-On each turn, a player places their symbol (❌ or ⭘).
+-The first player to align 3 symbols wins.
+-If all 9 cells are filled without a winner, it’s a draw.
+-The game highlights the winning cells using a different background color.
+
+##👨‍💻 Created By
+-Aditya Singh
+-📧 aditya2502singh@gmail.com
+-🔗 https://www.linkedin.com/in/aditya-singh25/
