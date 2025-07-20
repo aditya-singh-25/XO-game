@@ -35,13 +35,13 @@ npm run dev
 ```
 
 ## 💡 How It Works
-The game board is a 3x3 grid.
-On each turn, a player places their symbol (❌ or ⭘).
-The first player to align 3 symbols wins.
-If all 9 cells are filled without a winner, it’s a draw.
-The game highlights the winning cells using a different background color.
+- The game board is a 3x3 grid.
+- On each turn, a player places their symbol (❌ or ⭘).
+- The first player to align 3 symbols wins.
+- If all 9 cells are filled without a winner, it’s a draw.
+- The game highlights the winning cells using a different background color.
 
 ## 👨‍💻 Created By
-Aditya Singh
-📧 aditya2502singh@gmail.com
-🔗 LinkedIn
+- Aditya Singh
+- 📧 aditya2502singh@gmail.com
+- 🔗 LinkedIn
