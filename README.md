@@ -12,7 +12,8 @@ A modern and interactive Tic Tac Toe (X/O) game built using **React.js**. Challe
 
 ## 📸 Screenshot
 
-> *(Add a screenshot here after deployment)*
+> <img width="1470" height="956" alt="Screenshot 2025-07-20 at 7 29 54 PM" src="https://github.com/user-attachments/assets/9b2b04c8-c811-4bc4-a082-5063fa3478cf" />
+
 
 ## 🚀 Live Demo
 
